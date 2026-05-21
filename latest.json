@@ -1,11 +1,11 @@
 {
-  "asset_name": "GFix-portable-v1.0.1.zip",
-  "download_url": "https://github.com/usersilver/gfix-releases/releases/download/v1.0.1/GFix-portable-v1.0.1.zip",
-  "notes": "Fixed portable updater install flow and version metadata.",
+  "asset_name": "GFix-portable-v1.0.2.zip",
+  "download_url": "https://github.com/usersilver/gfix-releases/releases/download/v1.0.2/GFix-portable-v1.0.2.zip",
+  "notes": "GFix 1.0.2: user password hash sync support and portable update metadata.",
   "ok": true,
-  "published_at": "2026-05-21T13:51:49Z",
+  "published_at": "2026-05-21T16:32:17Z",
   "required": false,
-  "sha256": "f9c94ec1e9b36b366b29ab8928a5e155fa8df5690e69a6907e59ab8b4a03ccad",
-  "tag": "v1.0.1",
-  "version": "1.0.1"
+  "sha256": "0433e5f076b93ebf8a506217a1207ae37d519c9e1680720df1b3b8ec92b81103",
+  "tag": "v1.0.2",
+  "version": "1.0.2"
 }
