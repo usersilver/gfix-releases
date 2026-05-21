@@ -1,11 +1,11 @@
 {
-  "asset_name": "GFix-portable-v1.0.3.zip",
-  "download_url": "https://github.com/usersilver/gfix-releases/releases/download/v1.0.3/GFix-portable-v1.0.3.zip",
-  "notes": "GFix 1.0.3: allow all authenticated users to install available updates.",
+  "asset_name": "GFix-portable-v1.0.4.zip",
+  "download_url": "https://github.com/usersilver/gfix-releases/releases/download/v1.0.4/GFix-portable-v1.0.4.zip",
+  "notes": "GFix 1.0.4: display GFix timestamps in GMT+1 and allow all licensed users to install updates.",
   "ok": true,
-  "published_at": "2026-05-21T16:41:09Z",
+  "published_at": "2026-05-21T19:39:18Z",
   "required": false,
-  "sha256": "a886a37da55e7d161caa5ea56131e47399f42395adcb3ed827bdd93a28ced463",
-  "tag": "v1.0.3",
-  "version": "1.0.3"
+  "sha256": "18eea8cb4c944463cd3e0f7a3346a15e6ed1d95c9b41fc9e1c1fee0def0e98f2",
+  "tag": "v1.0.4",
+  "version": "1.0.4"
 }
